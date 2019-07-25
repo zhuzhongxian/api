@@ -9,17 +9,17 @@
     &emsp;|--api  
     &emsp;|--controller  
 |--model  
-|--service
-|--validate（自定义验证器目录） 
-    &emsp;|--extra
-    &emsp;|--lib
-|--exception（自定义异常处理目录）
-|--route.php（路由定义文件）
-|--extend
-|--login
-|--public
-|--images
-|--static
+|--service  
+|--validate（自定义验证器目录）  
+    &emsp;|--extra  
+    &emsp;|--lib  
+|--exception（自定义异常处理目录）  
+|--route.php（路由定义文件）  
+|--extend  
+|--login  
+|--public  
+|--images  
+|--static  
     
 
 
